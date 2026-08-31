@@ -1,0 +1,4 @@
+IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
+2606:4700:57:f34f:c8ba:fcdb:b4e3:b703,443,44ms,TCPing,54.18MB/s,NRT,JP,Asia Pacific,Tokyo
+2606:4700:5a:ba4c:3b3d:6484:fc2c:c3d7,443,55ms,TCPing,50.14MB/s,NRT,JP,Asia Pacific,Tokyo
+2606:4700:52:ba80:30f2:706d:3b08:7924,443,44ms,TCPing,50.11MB/s,NRT,JP,Asia Pacific,Tokyo
