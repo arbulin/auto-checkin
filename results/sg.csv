@@ -1,7 +1,7 @@
 IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
 172.64.40.45,443,66ms,TCPing,51.25MB/s,SIN,SG,Asia Pacific,Singapore
 108.162.192.42,443,71ms,TCPing,50.59MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.146.52,443,68ms,TCPing,50.21MB/s,SIN,SG,Asia Pacific,Singapore
 173.245.59.246,443,68ms,TCPing,49.85MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.5.217,443,69ms,TCPing,49.80MB/s,SIN,SG,Asia Pacific,Singapore
 162.159.26.167,443,68ms,TCPing,49.66MB/s,SIN,SG,Asia Pacific,Singapore
-8.35.211.219,443,69ms,TCPing,49.35MB/s,SIN,SG,Asia Pacific,Singapore
-8.39.125.10,443,69ms,TCPing,47.95MB/s,SIN,SG,Asia Pacific,Singapore
