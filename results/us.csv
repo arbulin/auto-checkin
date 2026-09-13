@@ -1,2 +1,4 @@
 IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
+104.17.78.30,443,152ms,TCPing,26.52MB/s,LAX,US,North America,Los Angeles
+104.19.25.173,443,150ms,TCPing,10.23MB/s,LAX,US,North America,Los Angeles
 104.18.49.92,443,150ms,TCPing,10.10MB/s,LAX,US,North America,Los Angeles
