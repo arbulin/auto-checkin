@@ -1,7 +1,7 @@
 IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
 104.16.209.250,443,149ms,TCPing,36.49MB/s,LAX,US,North America,Los Angeles
+104.17.241.142,443,151ms,TCPing,33.39MB/s,LAX,US,North America,Los Angeles
+104.19.121.51,443,146ms,TCPing,32.49MB/s,LAX,US,North America,Los Angeles
 104.17.193.171,443,148ms,TCPing,32.06MB/s,LAX,US,North America,Los Angeles
 104.18.57.157,443,143ms,TCPing,31.79MB/s,LAX,US,North America,Los Angeles
 104.18.219.142,443,145ms,TCPing,31.50MB/s,LAX,US,North America,Los Angeles
-172.64.88.62,443,147ms,TCPing,31.38MB/s,LAX,US,North America,Los Angeles
-104.17.153.121,443,150ms,TCPing,30.81MB/s,LAX,US,North America,Los Angeles
